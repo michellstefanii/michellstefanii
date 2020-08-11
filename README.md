@@ -4,8 +4,6 @@
 
 ## Welcome 👋
 
-Here are some ideas to get you started:
-
 - 💻 Working as a web/mobile developer
 - 🌱 Learning React and React Native
 - ⚡ Learning (more) JS
