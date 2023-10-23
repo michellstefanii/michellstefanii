@@ -5,6 +5,6 @@
 ## Welcome 👋
 
 - 💻 Working as a web/mobile developer
-- 🌱 Learning React and React Native
+- 🌱 React and React Native
 - ⚡ Learning (more) JS
 - :mortar_board: Interested in UX/UI
