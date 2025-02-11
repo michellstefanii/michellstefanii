@@ -24,6 +24,7 @@ I'm Michel S. a passionate software developer with over 5 years of experience bu
 ### 🔥 Featured Projects
 
 🔹 **Hempeasy** - A mobile application focused on medical cannabis education and user engagement. Built with **React, React Native, Node.JS**.
+
 🔹 **Other projects** - Check out more of my projects on my [Portfolio](https://michellstefanii.github.io/).
 
 ---
