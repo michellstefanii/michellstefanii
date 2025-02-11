@@ -8,7 +8,7 @@
 I'm Michel S. a passionate software developer with over 5 years of experience building high-quality web and mobile applications. I specialize in React and React Native crafting seamless and efficient user experiences, also I have experience with .NET and Node. JS for backend aplicationsÏ.
 
 ### 🚀 About Me
-- 💻 **Frontend & Fullstack Developer** - Specialized in **React.js, React Native, Next.js, and Backend with Node.JS**
+- 💻 **Frontend & Fullstack Developer** - Specialized in **React, React Native, Next.js and Backend with Node.JS & .NET**
 - 🌱 **Currently Exploring** - Advancing my skills in JavaScript, TypeScript, and Web3 development
 - 🎨 **Passionate about UX/UI** - Focused on creating intuitive and user-friendly interfaces (Figma)
 - 🛠 **Tech Stack** - JavaScript, TypeScript, React, Next.js, React Native, Node.js, .NET, Prisma, TypeORM, Tailwind CSS, Styled Components, PostgreSQL
